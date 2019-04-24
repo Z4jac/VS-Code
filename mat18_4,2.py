@@ -1,3 +1,4 @@
+#4.2
 file = open("przyklad.txt")
 
 M = 0

@@ -1,3 +1,4 @@
+#4.3
 file = open("przyklad.txt")
 
 for i,line in enumerate(file):
