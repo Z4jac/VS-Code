@@ -10,7 +10,7 @@ from PyQt5 import QtCore, QtGui, QtWidgets
 
 class Ui_MainWindow(object):
     def setupUi(self, MainWindow):
-        MainWindow.setObjectName("MainWindow")
+        MainWindow.setObjectName("TFT itmes")
         MainWindow.resize(413, 293)
         MainWindow.setStyleSheet("background-color: rgb(40, 44, 52);\n"
 "selection-color: rgb(0, 0, 0);")
@@ -146,7 +146,7 @@ class Ui_MainWindow(object):
         MainWindow.setWindowTitle(_translate("MainWindow", "MainWindow"))
 
     def add_BF(self):
-        print("added BF")
+         print("added BF")
 
     def add_bow(self):
         print("added Bow")
