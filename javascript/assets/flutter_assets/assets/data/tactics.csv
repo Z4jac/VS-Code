@@ -1,0 +1,1387 @@
+Lannister,Lannister Basic Deck,Hear me Roar!,"**When an enemy makes
+a Panic Test:**
+
+That enemy suffers -1 to their
+roll and an additional -1 for
+each destroyed rank.
+
+If you control [CROWN], they
+also become Panicked.",40101
+Lannister,Lannister Basic Deck,"Fealty to
+The Crown","**When an enemy fails a Panic Test:**
+
+For each model removed by
+this test, restore 1 Wound
+to a friendly Infantry unit in
+Short Range of that enemy.
+
+If you control [CROWN], that unit may
+restore up to 2 additional Wounds.",40102
+Lannister,Lannister Basic Deck,"Wealth
+of The Rock","**When a friendly Combat
+Unit is attacked, after
+Attack dice are rolled:**
+
+That unit gains +1 to
+Defense Save rolls this attack.
+
+If you control [MONEY], also
+automatically block D3 Hits.",40103
+Lannister,Lannister Basic Deck,"Intrigue and
+Subterfuge","**When an enemy
+Non-Combat Unit activates:**
+
+That NCU loses all Abilities
+until the end of the round.
+
+If you control [CROWN], 1 opponent must
+also randomly discard 1 Tactics card.",40104
+Lannister,Lannister Basic Deck,Paid Mutiny,"**When an enemy Combat
+Unit activates:**
+
+That unit must pass a Morale Test
+or its Attachments loses all Abilities
+until the end of the round, and
+that unit suffers D3 Wounds.
+
+If you control [MONEY], they suffer -2
+to their roll and, if they fail, suffer
+3 Wounds instead of rolling.",40105
+Lannister,Lannister Basic Deck,"A Lannister
+Pays his Debts","**When a friendly unit is destroyed:**
+
+1 enemy becomes Panicked and
+1 enemy becomes Vulnerable
+*(you may select the same enemy)*.
+
+If you control [MONEY], also return
+1 other discarded Tactics
+card to your hand.",40106
+Lannister,Lannister Basic Deck,Counterplot,"**When an opponent plays
+a Tactics Card:**
+
+Roll a die: On a 3+, cancel the
+effect of that Tactics card.
+
+If you control [CROWN], you may
+re-roll this die.",40107
+Lannister,"Gregor Clegane, The Mountain","Fury of
+The Mountain","**When a friendly unit
+makes a Melee Attack:**
+
+This attack gains Critical Blow
+*(Rolls of 6 cause 2 Hits).*
+
+If this is a **House Clegane**
+unit, Critical Blow instead
+triggers on rolls of 5+.",40108
+Lannister,"Gregor Clegane, The Mountain","Orders
+to Destroy","**When you claim any zone
+on the Tactics Board:**
+
+Replace that zone's effect with:
+
+*1 friendly unit may make a free Melee
+Attack action and rolls +2 dice.
+
+If this is a **House Clegane** unit, it
+may instead make a free Charge
+action and rolls +2 dice.*",40109
+Lannister,"Gregor Clegane, The Mountain",Overrun,"**When a friendly unit
+destroys an enemy:**
+
+Instead of Maneuvering,
+that unit may pivot and then
+make a Charge action.
+
+If this is a **House Clegane** unit, it
+gains +2 to its Charge Distance roll.",40110
+Lannister,"Tyrion Lannister, Halfman","Adaptive
+Tactics","**Start of any turn:**
+
+Place this card at the bottom of
+your Tactics Deck and return 1
+discarded Tactics card to your hand.
+If you control [LETTER], 1 opponent must
+also randomly discard 1 Tactics card.",40111
+Lannister,"Tyrion Lannister, Halfman","Delay
+Orders","**When an enemy would
+activate a Combat Unit:**
+
+That enemy must choose a different
+Combat Unit to activate *(if able)*.
+
+If you control [LETTER], you may choose
+the unit that must activate instead.",40112
+Lannister,"Tyrion Lannister, Halfman",Cunning Ploy,"**When a friendly
+Combat Unit activates:**
+
+Instead of this unit performing
+an action, 1 previously activated
+Combat Unit may perform
+1 action instead *(this unit still
+gains an Activation token)*.
+
+If you control [LETTER], opponents may
+not play Tactics cards this turn.",40113
+Lannister,"Tywin Lannister, Lord of Casterly Rock","Exploit
+Weakness","**When an enemy unit attacks,
+before attack dice are rolled:**
+
+For each attack die roll of a 1, that
+enemy suffers 1 automatic Wound.
+
+If you expend a Weakened token
+to force the enemy to re-roll, they
+also suffer +2 additional Wounds.",40114
+Lannister,"Tywin Lannister, Lord of Casterly Rock","The Lion's
+Wrath","**Start of a friendly turn:**
+
+1 enemy Combat Unit
+becomes Weakened.
+
+Until the end of the round,
+all Weakened enemies suffer
+-1[MOVEMENT] and trigger a **Disorderly
+Charge** on rolls of 1 or 2.",40115
+Lannister,"Tywin Lannister, Lord of Casterly Rock","Lannister
+Intimidation","**Start of any turn:**
+
+Expend a **Weakened token**
+from an enemy unit:
+
+That unit, and their
+Attachment(s), lose all Abilities
+until the end of the round.",40116
+Lannister,"Jaime Lannister, The Kingslayer","Expert
+Parry","**When a friendly Combat Unit
+is attacked with melee, after
+Attack dice are rolled:**
+
+Each Defense Save roll
+of 6 blocks 2 Hits.
+
+If that unit contains
+**Jaime Lannister**, rolls of 5+
+block 2 Hits instead.",40117
+Lannister,"Jaime Lannister, The Kingslayer","Kingslayer's
+Renown","**When an enemy Combat
+Unit activates:**
+
+That enemy becomes Weakened.
+
+If they are within Short Range
+of **Jaime Lannister's** unit, they
+they also become Panicked.",40118
+Lannister,"Jaime Lannister, The Kingslayer","Deadly
+Riposte","**When an enemy unit makes a Melee
+Attack, before attack dice are rolled:**
+
+For each Miss, that enemy
+suffers 1 automatic Hit.
+
+If they are attacking **Jaime
+Lannister's** unit, they suffer +2
+additional automatic Hits.",40119
+Lannister,"The High Sparrow, Father of the Faithful","Mercy of
+The Mother","**When a friendly
+Combat Unit activates:**
+
+That unit may make a Morale Test.
+
+On a success, restore up to 4
+Wounds to that unit. Otherwise,
+restore up to 2 Wounds to that unit.",40120
+Lannister,"The High Sparrow, Father of the Faithful","Protection of
+The Father","**When a friendly unit is attacked,
+after Attack dice are rolled:**
+
+That unit may make a Morale Test.
+On a success, that unit only suffers
+1 Wound for every 2 unblocked
+Hits *(discarding any remainders)*.
+Otherwise, automatically block 1 Hit.",40121
+Lannister,"The High Sparrow, Father of the Faithful","Wrath of
+The Warrior","**When a friendly
+Combat Unit activates:**
+
+That unit may make a Morale Test.
+On a success, this unit's Melee
+Attacks gain +1 to Hit and Sundering
+*(Defenders suffer -1 to Defense Save rolls.)*
+this turn. Otherwise, their Melee
+Attacks gain +1 to Hit this turn.",40122
+Lannister,"Joffrey Baratheon, First of his Name","You Will
+Obey Me!","**When a friendly Combat Unit
+makes a Melee Attack, before
+Attack dice are rolled:**
+
+This Attack gains +1 To Hit
+and rolls +2 Attack dice.
+
+After this Attack has been
+completed, this unit becomes
+Weakened and your opponent may
+choose 1 other of your Combat
+Units to become Panicked.",40123
+Lannister,"Joffrey Baratheon, First of his Name","Traitors!
+I Will Have
+Their Heads!","**Start of a friendly turn:**
+
+1 enemy Combat Unit becomes
+Panicked, and then 1 enemy
+Combat Unit suffers a Panic Test.
+
+After this test has been completed,
+your opponent may choose 1 of
+your Combat Units to become
+Panicked and 1 of your Combat
+Units to become Weakened
+*(they may select the same unit)*.",40124
+Lannister,"Joffrey Baratheon, First of his Name",I Am The King!,"**When a friendly Combat
+Unit is attacked, after
+Defense dice are rolled:**
+
+Automatically block D3 Wounds.
+
+After this Attack has been
+completed, the defender becomes
+Vulnerable and your opponent may
+choose 1 other of your Combat
+Units to become Panicked.",40125
+Stark,Stark Basic Deck,"Winter
+is Coming","**When a friendly unit
+declares a Charge:**
+
+Your opponent may not play
+Tactics cards or use Orders for
+the remainder of this turn.
+
+If you control [SWORDS], any enemy
+they successfully Charge
+also becomes Panicked.",40201
+Stark,Stark Basic Deck,"Northern
+Ferocity","**When a friendly unit makes
+a Melee Attack:**
+
+This attack gains Sundering *(Defenders
+suffer -1 to their Defense Save rolls)*.
+
+If this unit has only 1 remaining
+rank, it also gains Vicious *(Defenders
+suffer -2 to their Panic Test)*.
+
+If you control [SWORDS], the defender
+also becomes Vulnerable.",40202
+Stark,Stark Basic Deck,"The North
+Remembers","**When a friendly unit is destroyed:**
+
+Target a friendly unit and remove 1
+Activation token from them *(they
+may be activated again this round)*, or
+they may restore up to 3 Wounds.
+
+If you control [SWORDS], they gain both
+effects instead.",40203
+Stark,Stark Basic Deck,"Devastating
+Impact","**When a friendly unit Charges:**
+
+That unit may re-roll their Charge
+Distance die, and their attack deals
++2 additional automatic Hits.
+
+If you control [HORSE], the unit
+automatically counts as having
+rolled a 6 for their Charge Distance,
+and they deal +2 automatic
+Wounds instead of Hits.",40204
+Stark,Stark Basic Deck,"Swift
+Advance","**When a friendly Infantry
+unit activates:**
+
+That **Infantry** unit may make
+a free Maneuver action.
+
+If you control [HORSE], the unit also
+gains +1 [MOVEMENT] and may re-roll any
+Charge Distance dice this activation.",40205
+Stark,Stark Basic Deck,"Sudden
+Charge","**When you claim any zone
+on the Tactics Board:**
+
+You may replace that
+zone's effect with:
+
+*1 friendly unit may make
+a free Charge action.
+
+If you control [HORSE], any enemy
+they successfully Charge also
+becomes Vulnerable.*",40206
+Stark,Stark Basic Deck,"Direwolf's
+Fervor","**When a friendly unit
+suffers a Panic Test:**
+
+That unit gains +1 to their Panic Test
+roll and an additional +1
+for each destroyed rank.
+
+If you control [SWORDS], 1 enemy engaged
+with that unit also suffers
+D3 Wounds.",40207
+Stark,"Greatjon Umber, Lord of Last Hearth",Last Stand,"**When a friendly unit is destroyed:**
+
+That unit may make 1 free Melee
+Attack, using its highest attack die
+value, before being removed.
+
+If this is a **House Umber** unit, the
+defender also becomes Vulnerable.",40208
+Stark,"Greatjon Umber, Lord of Last Hearth",Lash Out,"**After a friendly unit is
+attacked with melee:**
+
+If this unit has 1 destroyed rank,
+deal the attacker D3 Wounds.
+
+If it has 2 destroyed ranks, deal
+D3+2 Wounds instead.
+
+If this is a **House Umber**
+unit, you may automatically
+count as having rolled a 3.",40209
+Stark,"Greatjon Umber, Lord of Last Hearth","Berserker
+Tactics","**When a friendly unit makes a Melee
+Attack, after Attack dice are rolled:**
+
+The defender suffers D3 Wounds.
+After this attack is completed, unless
+this unit only has 1 remaining rank,
+it suffers that many Wounds as well.
+
+If this is a **House Umber** unit,
+you may deal 3 Wounds
+instead of rolling.",40210
+Stark,"Brynden Tully, Outrider Commander","Ride-By
+Attack","**When a friendly Cavalry
+unit activates:**
+
+As its action, that unit may pivot
+and March and may move through
+enemies during this March.
+
+After completing this action, it may
+resolve 1 **Charge Attack** on 1 enemy
+it passed through *(including re-rolls)*.",40211
+Stark,"Brynden Tully, Outrider Commander","Ride Them
+Down!","**When an enemy fails a Panic Test:**
+
+If that enemy is engaged with
+a Cavalry unit, they suffer an
+additional D3 Wounds.
+
+If you control [HORSE], they suffer 3
+additional Wounds instead of rolling.",40212
+Stark,"Brynden Tully, Outrider Commander",Heavy Impact,"**When a friendly
+Cavalry unit successfully Charges:**
+
+The defender becomes Vulnerable.
+
+If you control [HORSE], this attack also
+deals +2 additional automatic Hits.",40213
+Stark,"Eddard Stark, Lord of Winterfell","Fury for
+the Fallen","**After a friendly unit not containing
+Eddard Stark is attacked:**
+
+**Eddard Stark's** unit may pivot
+and then perform 1 free
+Attack or Charge action.
+
+If the friendly unit was destroyed,
+this attack also gains Critical
+Blow *(Rolls of 6 cause 2 Hits)*.",40214
+Stark,"Eddard Stark, Lord of Winterfell","Lead by
+Example","**Start of a friendly turn:**
+
+**Eddard Stark's** unit must be
+selected to activate. Their Melee
+Attacks roll +2 dice this turn.
+
+After this activation, 1 other
+friendly unit within Long Range may
+immediately activate as well. Their
+Melee Attacks roll +2 dice this turn.",40215
+Stark,"Eddard Stark, Lord of Winterfell","Northern
+Defiance","**When a friendly unit would
+fail a Morale Test:**
+
+That unit may re-roll this
+test. If they are within Long
+Range of **Eddard Stark**, they
+automatically pass this test.
+
+If this targets **Eddard Stark's**
+unit, it make immediately
+make 1 free **Attack action**.",40216
+Stark,"Brynden Tully, The Blackfish",Tully Valor,"**When this unit is attacked with
+melee, after Attack dice are rolled:**
+
+That unit gains +1 to
+Defense Save rolls this attack.
+
+If this is a **House Tully** unit, they
+automatically pass their Panic
+Test for this attack as well.",40217
+Stark,"Brynden Tully, The Blackfish","Refuse
+to Yield","**When a friendly unit
+passes a Morale Test:**
+
+Restore up to 2 Wounds to that unit.
+
+If this is a **House Tully** unit,
+restore D3+1 Wounds instead.",40218
+Stark,"Brynden Tully, The Blackfish","Set For
+Charge","**When a friendly, unengaged unit
+is charged from the Front:**
+
+That unit may make 1 Attack
+action against that enemy before
+they resolve their Charge attack.
+
+If this is a **House Tully** unit, the
+enemy also becomes Weakened.",40219
+Stark,"Robb Stark, The Wolf Lord",Hit and Run,"**After a friendly unit
+completes a Melee Attack:**
+
+That unit may make a free Retreat
+action, and automatically counts as
+rolling a 6 for their Retreat Distance.
+
+If you control [HORSE], any
+enemies they disengaged from
+also becomes Weakened.",40220
+Stark,"Robb Stark, The Wolf Lord","Superior
+Positioning","**When an enemy unit Charges:**
+
+That enemy must roll an
+additional Charge Distance die
+and select the lowest result.
+
+If the enemy is charging **Robb
+Stark's** unit, Robb's unit may
+make a free 3[MOVEMENT] Maneuver
+before that enemy moves.",40221
+Stark,"Robb Stark, The Wolf Lord","Tactical
+Regroup","**When a friendly Combat
+Unit activates:**
+
+That unit may make a free
+Retreat action and restore
+up to D3 Wounds.
+
+If that unit is within Long
+Range of **Robb Stark**, any
+enemies they disengaged from
+also becomes Vulnerable.",40222
+Stark,"Howland Reed, Lord of the Crannogs","The Threat
+Unseen","**When a damaged enemy
+unit activates:**
+
+That enemy must make a Panic
+Test and suffers -1 to their
+roll per destroyed rank.
+
+If they are within Long Range
+of a **Crannogman** unit, they
+also become Panicked.",40223
+Stark,"Howland Reed, Lord of the Crannogs","Crannog
+Traps","**When an enemy unit activates:**
+
+That enemy suffers
+-2[MOVEMENT] this activation.
+If they are within Long Range
+of a **Crannogman** unit, they
+also become Weakened.",40224
+Stark,"Howland Reed, Lord of the Crannogs","Bog Devil
+Ambush","**When an enemy Combat
+Unit activates:**
+
+That enemy suffers D3+2
+automatic Hits.
+
+If they are within Long Range of a
+**Crannogman** unit, they suffer -1 to
+Defense Save rolls for these Hits.",40225
+Stark,"Rodrik Cassel, Master-at-Arms","Martial
+Superiority","**When an enemy unit attacks:**
+
+That attack rolls -2 dice and loses
+any Abilites until the end of the turn.
+
+If they are attacking **Rodrik
+Cassel's** unit, that enemy
+also become Weakened.",40226
+Stark,"Rodrik Cassel, Master-at-Arms","Combat
+Prowess","**When a friendly unit Attacks
+or Charges a Vulnerable enemy:**
+
+Until the end of the turn,
+the defender loses all Abilities,
+and opponents may not
+play Tactics cards.
+
+If targeting **Rodrik Cassel's** unit,
+the defender also becomes
+Panicked.",40227
+Stark,"Rodrik Cassel, Master-at-Arms","Press the
+Advantage","**When a friendly unit attacks
+a Vulnerable enemy:**
+
+This attack gains Critical Blow
+*(Rolls of 6 cause 2 Hits)*.
+
+If this targets **Rodrik Cassel's**
+unit, Critical Blow instead
+triggers on rolls of 5+.",40228
+Neutral,Neutral Basic Deck,"Adaptive
+Methods","**Anytime:**
+
+Expend 1 Condition token on
+an enemy unit as if it were any
+other Condition token.
+
+If you control [LETTER], you may
+also move 1 Condition token
+from any unit (friendly or
+enemy) to any other unit.",40401
+Neutral,Neutral Basic Deck,"Surprise
+Strategy","**Start of any turn:**
+
+Opponents may not play
+Tactics cards this turn.
+Remove this card from the
+game instead of discarding
+it when it is played.
+
+If you control [LETTER], you may also
+return 1 Tactics card from your
+discard pile to your hand.",40402
+Neutral,Neutral Basic Deck,Cunning Scheme,"**Start of a friendly turn:**
+
+Return 1 Tactics card from your
+discard pile to your hand.
+
+Remove this card from the
+game instead of discarding
+it when it is played.
+
+If you control [LETTER], 1 opponent must
+also discard 1 Tactics card at random.",40403
+Neutral,Neutral Basic Deck,"Worth the
+Reward","**When a friendly unit would
+fail a Panic Test:**
+
+You may re-roll that Panic Test.
+
+If you control [MONEY], they automatically
+pass this test instead.",40404
+Neutral,Neutral Basic Deck,"Wealth and
+Cunning","**When a friendly unit attacks
+or is attacked *(in each case,
+after attack dice are rolled)*:**
+
+If attacking, deal an additional
+D3 automatic Hits, or +3
+Hits if you control [LETTER].
+
+If defending, automatically block
+D3 Hits, or 3 Hits if you control [MONEY].",40405
+Neutral,Neutral Basic Deck,Bribery,"**When you claim the [MONEY] zone
+of the Tactics Board:**
+
+You may replace that
+zone's effect with:
+
+*Choose 1:
+
+• 1 enemy unit becomes Weakened
+and loses all Abilities this round.
+
+• 1 enemy NCU loses all Abilities
+and may not Activate (if it has not
+already done so) this round.*",40406
+Neutral,Neutral Basic Deck,Spoils of War,"**When an enemy unit is destroyed:**
+
+Roll a D6. Restore that many
+Wounds +2 (total) across any
+number of friendly units.
+
+If you control [MONEY], you may roll 2
+dice and select the highest result.",40407
+Neutral,"Ramsay Snow, The Bastard of Bolton","Our Blades
+are Sharp","**When a friendly unit
+attacks with melee:**
+
+If targeting a Panicked
+enemy, this attack gains +1
+to Hit and rolls +2 dice.
+
+If this is a **House Bolton** unit, the
+defender also becomes Vulnerable.",40408
+Neutral,"Ramsay Snow, The Bastard of Bolton","Cruel
+Methods","**Start of the round:**
+
+1 friendly unit may make
+a free Attack action.
+
+If it does not destroy an enemy,
+it must make a Panic Test,
+and suffers -3 to its roll.
+
+If it is a **House Bolton** unit, it may
+use its highest attack die value
+and may also re-roll any Misses.",40409
+Neutral,"Ramsay Snow, The Bastard of Bolton","Sadistic
+Games","**Start of a friendly turn:**
+
+Your opponent chooses 1
+of the following *(you declare
+targets only after they choose)*:
+
+• Up to 2 enemy Combat
+Units become Panicked.
+
+• 1 enemy Combat Unit suffers
+D3+2 automatic Hits.",40410
+Neutral,"Roose Bolton, Lord of the Dreadfort","Calculated
+Cruelty","**When a Panicked enemy activates:**
+
+Expend a **Panic token**
+from that enemy:
+
+That unit, and its Attachments,
+lose all Abilities this round.
+
+If they are within Short Range
+of a **House Bolton** unit, they
+also suffer D3 Wounds.",40411
+Neutral,"Roose Bolton, Lord of the Dreadfort","A Flayed
+Man has
+no Secrets","**Start of any turn:**
+
+Expend a Panic Token
+from an enemy unit:
+
+Look at 1 opponent's hand of Tactics
+cards and discard 1 card from it.",40412
+Neutral,"Roose Bolton, Lord of the Dreadfort","Fear Keeps
+a Man Alive","**When an engaged, Panicked,
+enemy activates:**
+
+Expend a Panic token
+from that enemy:
+
+That enemy must make a Morale
+Test. On a failure, the only
+action they may take this turn
+is Retreat, and 1 **House Bolton**
+unit they are engaged with may
+restore up to D3 Wounds.",40413
+Night's Watch,NW Basic Deck,Take the Black,"**When an enemy Combat
+Unit is destroyed:**
+
+Choose 1:
+
+• Restore up to D3+1 Wounds to a
+friendly **Night's Watch Infantry** unit
+within Short Range of that enemy.
+
+• Take 1 **Infantry Attachment**
+from that enemy and attach it
+to a **Night's Watch Infantry** unit
+within Short Range *(ignoring the
+usual Attachment restrictions)*.",40501
+Night's Watch,NW Basic Deck,"The Sword
+in the Darkness","**When a friendly unit makes
+a Melee Attack:**
+
+The defender becomes Vulnerable.
+
+Vow: *If this card targets a **Night's Watch**
+unit, you may attach this card to them.
+A unit may only have 1 Vow at any time
+(discard the previous Vow when a new one
+is attached). While attached, they gain:*
+
+While you control [SWORDS], this unit's
+Melee Attacks roll +2 dice.",40502
+Night's Watch,NW Basic Deck,"And now his
+Watch is Ended","**When a friendly Combat
+Unit is destroyed:**
+
+You may return 1 attached Vow
+card from that unit to your hand,
+and then remove 1 Activation Token
+from a friendly unit or remove 1
+friendly NCU from the Tactics Board
+*(they may be activated again this round)*.",40503
+Night's Watch,NW Basic Deck,"The Watcher
+on the Wall","**After a friendly unit is attacked:**
+
+1 other friendly unit may make
+a free Maneuver or March action.
+
+Vow: *If this card targets a **Night's Watch**
+unit, you may attach this card to them.
+A unit may only have 1 Vow at any time
+(discard the previous Vow when a new one
+is attached). While attached, they gain:*
+
+While you control [HORSE], this unit
+gains +1[MOVEMENT] and may perform
+a free Retreat action if it begins
+its activation engaged.",40504
+Night's Watch,NW Basic Deck,"The Fire that
+Burns against
+the Cold","**When an enemy expends
+a Condition token on a friendly unit:**
+
+Cancel the effect of that token.
+
+Vow: *If this card targets a **Night's Watch**
+unit, you may attach this card to them.
+A unit may only have 1 Vow at any time
+(discard the previous Vow when a new one
+is attached). While attached, they gain:*
+
+When this unit activates, you
+may place 1 Condition token
+on an enemy within Long
+Range. If you do, discard this
+Vow unless you control [CROWN].",40505
+Night's Watch,NW Basic Deck,"The Horn
+that Wakes
+the Sleeper","**Start of a friendly turn:**
+
+Target 1 friendly unit and
+draw 2 Tactics Cards.
+
+Vow: *If this card targets a **Night's Watch**
+unit, you may attach this card to them.
+A unit may only have 1 Vow at any time
+(discard the previous Vow when a new one
+is attached). While attached, they gain:*
+
+At any time, while you control
+[LETTER], you may discard this Vow to
+attach 1 **Vow Tactic Card** from your
+hand or discard pile to this unit.",40506
+Night's Watch,NW Basic Deck,"The Shield of the
+Realms of Men","**When a friendly Combat
+Unit is attacked, after
+Attack dice are rolled:**
+
+Automatically block D3 Hits.
+
+Vow: *If this card targets a **Night's Watch**
+unit, you may attach this card to them.
+A unit may only have 1 Vow at any time
+(discard the previous Vow when a new one
+is attached). While attached, they gain:*
+
+While you control [MONEY],
+each time this unit is attacked,
+automatically block D3 Hits.",40507
+Night's Watch,"Jeor Mormont, 997th Lord Commander","Night
+Gathers...","**Start of any turn:**
+
+Search your Tactics Deck for
+any 1 Tactics Card with the
+Vow keyword and attach it to a
+friendly **Night's Watch** unit.
+
+If targeting **Jeor Mormont's**
+unit, also restore up to D3
+Wounds to that unit.",40508
+Night's Watch,"Jeor Mormont, 997th Lord Commander","Duty to
+the Watch","**When a friendly unit
+makes a Morale Test:**
+
+That unit may roll an additional
+die and discard the lowest result.
+
+Vow: *If this card targets a **Night's Watch**
+unit, you may attach this card to them.
+A unit may only have 1 Vow at any time
+(discard the previous Vow when a new one
+is attached). While attached, they gain:*
+
+This unit may discard this Vow
+if it would fail a Morale Test to
+automatically pass that Test instead.",40509
+Night's Watch,"Jeor Mormont, 997th Lord Commander","Unwavering
+Conviction","**When a friendly unit with
+an attached Vow attacks:**
+
+Opponents may not play Tactics
+Cards for the rest of this turn,
+and your unit may attack using
+its highest attack die value.
+
+Once this attack is
+completed, discard any Vows
+attached to that unit.",40510
+Night's Watch,"Jon Snow, 998th Lord Commander","...It Shall
+Not End Until
+My Death!","**When a friendly Combat
+Unit would be destroyed:**
+
+That unit may make a Morale Test.
+
+On a success, they are not
+destroyed but remain in play
+with 1 remaining Wound.
+
+If within Short Range of **Jon
+Snow's** unit, also remove any
+Activation tokens on them.",40511
+Night's Watch,"Jon Snow, 998th Lord Commander","Stand United,
+Brothers!","**When a friendly Combat Unit
+passes a Morale Test:**
+
+1 other friendly unit within
+Long Range may restore
+up to D3+1 Wounds.
+
+If either unit contains **Jon Snow**,
+you automatically count
+as rolling a 3.",40512
+Night's Watch,"Jon Snow, 998th Lord Commander","For the
+Watch!","**When a friendly
+Combat Unit activates:**
+
+Choose 1 of the following.
+If this unit contains **Jon Snow**,
+you may choose 2 instead *(the
+same effect my not be chosen twice)*:
+
+• That unit gains +2[MOVEMENT] this turn.
+
+• That unit's Melee Attacks
+gain +1 to Hit this turn.
+
+•That unit may restore up
+to 2 Wounds and remove
+1 Condition token.",40513
+Night's Watch,"Allister Thorne, Master-at-Arms","Pathetic
+Attempt","**After a friendly Combat Unit is
+attacked, if it did not lose a rank:**
+
+The attacker suffers D3 Wounds
++1 additional Wound for each
+remaining rank in the defending
+unit beyond the first.
+
+If the defending unit contains
+**Alliser Thorne**, you automatically
+count as rolling a 3.",40514
+Night's Watch,"Allister Thorne, Master-at-Arms","Seeing
+Their Flaws","**After an enemy Combat Unit
+completes an Action:**
+
+That enemy becomes
+Panicked and Vulnerable.
+
+If that enemy is within Short Range
+of **Alliser Thorne**, you may place
+this card on top of your Tactics
+Deck instead of discarding it.",40515
+Night's Watch,"Allister Thorne, Master-at-Arms","Ruthless
+Approach","**Start of a friendly turn:**
+
+Attach this card to an enemy
+Combat Unit until the end of the
+round. While attached, that enemy
+suffers the following effects, based
+on what Tactics Zones you control:
+
+[CROWN]: -2 to Panic Test rolls.
+
+[MONEY]: -1 to Defense Save rolls.
+
+[LETTER]: Enemy loses all Abilities.
+
+[SWORDS]: -2 Attack dice.
+
+[HORSE]: -2[MOVEMENT]",40516
+Night's Watch,"Donal Noye, Defender Of Castle Black","Bulwark
+Formation","**Start of the Round:**
+
+Attach this card to a friendly
+Combat Unit until the start
+of its next activation.
+
+While attached, this unit may not
+make Attack actions, but gains +1
+to Defense Save rolls and attackers
+do not gain **Charge, Flank,** or
+**Rear Bonuses** against this unit.",40517
+Night's Watch,"Donal Noye, Defender Of Castle Black","Defensive
+Counter","**When an unactivated, friendly
+Combat Unit is attacked with
+melee, before attack dice are rolled:**
+
+The attacker becomes Weakened,
+and their attacks lose all Abilities
+until the end of the turn.",40518
+Night's Watch,"Donal Noye, Defender Of Castle Black",Hold The Line!,"**When a friendly Combat Unit
+begins its activation engaged:**
+
+That unit's Melee Attacks gain +1
+to Hit and roll +2 dice this turn.",40519
+Night's Watch,"Othell Yarwyck, First Builder","Mighty
+Enhancement","**When a friendly unit attacks,
+before Attack dice are rolled:**
+
+This attack gains Critical Blow
+*(Rolls of 6 cause 2 Hits)* and may
+re-roll any Attack dice.",40520
+Night's Watch,"Othell Yarwyck, First Builder","Precision
+Enhancement","**When a friendly unit attacks,
+before Attack dice are rolled:**
+
+This attack gains Sundering
+*(Defenders suffer -1 to their Defense
+Save rolls)* and Hits from rolls of
+6 do not allow Defense Saves.",40521
+Night's Watch,"Othell Yarwyck, First Builder","Serrated
+Enhancement","**When a friendly unit attacks,
+before Attack dice are rolled:**
+
+This attack gains Vicious *(Defender
+suffers -2 to their Panic Test)*.
+
+If the defender fails their Panic
+Test, they become Weakened.",40522
+Free Folk,Free Folk Basic Deck,"Swift
+Advance","**When a friendly Infantry
+unit activates:**
+
+That **Infantry** unit may make
+a free Maneuver action.
+
+If you control [HORSE], the unit also
+gains +1[MOVEMENT] and may re-roll any
+Charge Distance dice this activation.",40301
+Free Folk,Free Folk Basic Deck,"Group
+Assault","**When a friendly unit makes
+a Melee Attack:**
+
+If there is another friendly unit
+engaged with that enemy, this attack
+gains Critical Blow *(Rolls of 6 cause
+2 Hits)* and Sundering *(Defenders
+suffer -1 to their Defense Save rolls)*.",40302
+Free Folk,Free Folk Basic Deck,"Distraction
+Tactics","**When an enemy unit makes
+a Melee Attack:**
+
+That unit suffers -1 to Hit for
+each enemy engaged with
+them beyond the first.",40303
+Free Folk,Free Folk Basic Deck,"Surrounded and
+Exposed","**At the start of any turn:**
+
+Target 1 enemy Combat Unit.
+
+If you have 2 or more friendly
+units within Short Range
+of that enemy, that enemy
+loses all Abilities this turn.
+
+If you control [HORSE], that
+enemy also gains 1 Condition
+token *(of your choice)*.",40304
+Free Folk,Free Folk Basic Deck,"There's too
+Many","**When an enemy Combat
+Unit activates:**
+
+If there are 2 or more enemies
+engaged with that unit, they suffer
+a Panic Test with -2 to their roll.",40305
+Free Folk,Free Folk Basic Deck,"Regroup
+and Reform","**When a friendly Infantry
+unit activates:**
+
+Remove up to 4 models (total)
+from other friendly **Infantry** units
+within Long Range. Restore that
+many Wounds to this unit.
+
+If you control [HORSE], restore up
+to 2 additional Wounds.",40306
+Free Folk,Free Folk Basic Deck,"The Endless
+Horde","**When you claim a Tactics Zone:**
+
+Replace that zone's effect with:
+
+*""Redeploy 1 previously destroyed
+friendly **Free Folk Infantry** unit
+into a friendly Deployment Zone.
+Attachments are not returned (replace
+them with a normal Infantry model).
+
+If you control [HORSE], they are deployed
+without an Activation token. Otherwise,
+they gain 1 Activation token.""*",40307
+Free Folk,"Tormund Giantsbane, Thunderfist","Rallying
+Assault","**When a friendly unit
+successfully Charges:**
+
+1 friendly unit within Long Range
+may restore up to D3+1 Wounds.
+
+If **Tormund's** unit charged, restore
+up to 4 Wounds instead.",40311
+Free Folk,"Tormund Giantsbane, Thunderfist","Counter
+Charge","**After a friendly Combat
+Unit is attacked:**
+
+Target 1 other friendly unit. It may
+immediately make 1 free Charge
+action targeting the attacker.
+
+If this targets **Tormund's** unit,
+they may also re-roll any
+Charge Distance dice.",40312
+Free Folk,"Tormund Giantsbane, Thunderfist","Rush of
+Aggression","**When a friendly unit
+successfully Charges:**
+
+Their attack rolls +2 dice.
+
+If this targets **Tormund's** unit, the
+defender also becomes Vulnerable.",40313
+Free Folk,"Mance Rayder, King Beyond the Wall","Wildling
+Diplomacy","**When an enemy NCU activates:**
+
+Select 2 zones on the Tactics Board.
+
+If that NCU claims either zone
+this activation, deal 1 enemy
+Combat Unit D3+2 Wounds.
+
+If that enemy Combat Unit is
+within Short Range of **Mance
+Rayder**, they also gain 1
+Condition token *(of your choice)*.",40314
+Free Folk,"Mance Rayder, King Beyond the Wall","Meticulous
+Planning","**Start of a friendly turn:**
+
+Discard this card and
+1 other Tactics card.
+
+Search your Tactics Deck for any
+1 card and add it to your hand.
+Shuffle your Tactics Deck afterwards.",40315
+Free Folk,"Mance Rayder, King Beyond the Wall","Predictable
+Maneuvers","**Start of an enemy turn, if they have
+2+ Unactivated Combat Units:**
+
+Target 1 enemy Combat Unit.
+
+If that enemy activates this
+turn, before they perform their
+action, 1 friendly unit may
+make a free Attack action.
+
+If that enemy is within Short Range
+of **Mance Rayder**, they also gain
+1 Condition token *(of your choice)*.",40316
+Free Folk,"Rattleshirt, The Lord Of Bones","Gruesome
+Reminders","**After a friendly Combat Unit
+completes a Melee Attack, if
+it destroyed an enemy rank:**
+
+Attach this card to that
+friendly Combat Unit.
+
+While attached, they gain
+the following Ability:
+
+*""While engaged with this unit, enemies
+suffer -1 to Panic Test rolls for each
+destroyed rank in that enemy unit.""*",40317
+Free Folk,"Rattleshirt, The Lord Of Bones","Mark Of
+Slaughter","**After a friendly Combat Unit
+completes a Melee Attack, if
+it destroyed an enemy rank:**
+
+Attach this card to that
+friendly Combat Unit.
+
+While attached, they gain
+the following Ability:
+
+*""This unit's Melee Attacks roll +2 dice.
+Each time this unit makes a Melee
+Attack, after that attack has been
+completed, it may restore 1 Wound.""*",40318
+Free Folk,"Rattleshirt, The Lord Of Bones","Jagged
+Trophies","**After a friendly Combat Unit
+completes a Melee Attack, if
+it destroyed an enemy rank:**
+
+Attach this card to that
+friendly Combat Unit.
+
+While attached, they gain
+the following Ability:
+
+*""Each time this unit is attacked
+with Melee, for each Defense Save roll
+of 6, the attacker suffers 1 Wound.""*",40319
+Free Folk,"Harma, Vanguard Commander","Feinting
+Maneuver","**When you claim the [HORSE]
+zone of the Tactics Board:**
+
+Replace that zone's effect with:
+
+*""1 friendly Combat Unit may make a free
+Charge action. If they are successful, you
+may place them in the closest Flank arc
+of the defender (treating for all purposes
+as if they had charged that Flank).""*",40320
+Free Folk,"Harma, Vanguard Commander",Force March,"**At the start of the round:**
+
+1 friendly **Infantry** unit may pivot
+and then make 1 free March action,
+and then becomes Weakened.",40321
+Free Folk,"Harma, Vanguard Commander","Diversion
+Tactics","**After a friendly Combat
+Unit is attacked:**
+
+1 other friendly unit within
+Long Range of that unit may
+make a free Maneuver action.
+
+If you control [HORSE], instead,
+they may pivot and make
+a free March action.",40322
+Free Folk,"The Weeper, Horrific Butcher","Reckless
+Slaughter","**When a friendly Combat Unit
+makes a Melee Attack,
+before Attack dice are rolled:**
+
+This Attack rolls +3 dice and
+gains Vicious *(Defender suffers
+-2 to their Panic Test)*.
+
+After this Attack is completed,
+the attacker becomes Vulnerable.",40323
+Free Folk,"The Weeper, Horrific Butcher","Price Of
+Failure","**When a friendly Combat
+Unit attacks, before
+Attack dice are rolled:**
+
+All Attack dice results automatically
+Hit for this Attack. For each result
+that would have normally Missed,
+the attacker suffers 1 Wound.",40324
+Free Folk,"The Weeper, Horrific Butcher","Agonizing
+Deaths","**When an enemy Combat
+Unit is destroyed:**
+
+All other enemy units within
+Short Range of that enemy suffer
+a Panic Test with -2 to their roll.",40325
+Free Folk,"Styr, Magnar Of Thenn",Final Strike,"**When a friendly Infantry unit
+is attacked with melee,
+after Defense dice are rolled:**
+
+For each Wound suffered by
+the defender, the attacker
+suffers 1 automatic Hit.
+
+If the defender is within Short
+Range of **Styr**, the attacker
+suffers -1 to Defense Save rolls
+against these automatic Hits.",40326
+Free Folk,"Styr, Magnar Of Thenn","Set For
+Charge","**When a friendly, unengaged
+unit is successfully Charged
+from the Front:**
+
+That unit may make 1 Attack
+action against that enemy before
+they resolve their Charge attack.
+
+If the charged unit is within
+Short Range of **Styr**, the attacker
+also becomes Weakened.",40327
+Free Folk,"Styr, Magnar Of Thenn","Styr's
+Vengeance","**Start of a friendly turn:**
+
+Target 1 friendly Combat Unit.
+
+If a friendly Combat Unit has
+been destroyed this round,
+remove 1 Activation token
+from the targeted unit.
+
+If the targeted unit is within
+Short Range of **Styr**, their
+Melee Attacks gain +1 to Hit
+and roll +2 dice this turn.",40328
+Baratheon,Baratheon Basic Deck,Last Stand,"**When a friendly combat
+unit is destroyed:**
+
+That unit may make 1 free Melee
+Attack, using its highest attack die
+value, before being removed.
+
+If you control [CROWN], the defender
+also becomes Vulnerable.",40601
+Baratheon,Baratheon Basic Deck,"Counter
+Charge","**After a friendly Combat
+Unit is attacked:**
+
+1 other friendly unit may
+immediately make 1 free Charge
+action targeting the attacker.
+
+If you control [LETTER], that unit may also
+re-roll any Charge Distance dice.",40602
+Baratheon,Baratheon Basic Deck,Stag's Wit,"**When a friendly, engaged
+Combat Unit activates:**
+
+Remove all Condition
+Tokens from that unit.
+
+If you control [LETTER], instead of
+removing those Tokens, you may
+place them on 1 enemy Combat
+Unit they are engaged with.",40603
+Baratheon,Baratheon Basic Deck,Ours is the Fury!,"**After a friendly Combat
+Unit is attacked, but not
+destroyed, with melee:**
+
+That unit may make a free Melee
+Attack targeting the attacker.
+
+If you control [CROWN], they may also
+roll their highest Attack Die value
+*(regardless of remaining ranks)*.",40604
+Baratheon,Baratheon Basic Deck,"Baratheon
+Conviction","**Start of the round:**
+
+Target 1 friendly Infantry unit and
+attach this card to them. Discard
+it when they fail a Morale Test.
+
+While this card is attached:
+
+• If you control [CROWN], this unit only
+suffers 1 Wound from failed Panic
+Tests, regardless of Abilities or roll.
+
+• If you control [LETTER], this unit's
+Defense Save rolls of 6 block 2 Hits.",40605
+Baratheon,Baratheon Basic Deck,"Stag's
+Resilience","**When a friendly, engaged
+Combat Unit activates:**
+
+Restore up to D3+1
+Wounds to that unit.
+
+If you control [LETTER], 1 enemy
+they are engaged with also
+suffers that many Wounds.",40606
+Baratheon,Baratheon Basic Deck,Hold the Line!,"**When a friendly, engaged
+Combat Unit activates:**
+
+That unit's Melee Attacks gain +1
+to Hit and roll +2 dice this turn.",40607
+Baratheon,"Stannis Baratheon, The Rightful Heir","Will of The
+One True King","**When you claim the [CROWN] zone
+on the Tactics Board:**
+
+Replace that Zone's effect with:
+
+1 enemy Combat Unit
+becomes Panicked.
+
+1 enemy Combat unit
+becomes Vulnerable.
+
+1 enemy Combat Unit
+becomes Weakened.",40608
+Baratheon,"Stannis Baratheon, The Rightful Heir",Oath of Duty,"**When a friendly Combat
+Unit is destroyed:**
+
+Attach this card to a friendly Combat
+Unit until the end of the game.
+
+While attached, this unit never
+suffers penalties to Morale, and
+may never become Panicked.
+
+If this is **Stannis Baratheon's** unit,
+their attacks also roll +2 Attack dice.",40609
+Baratheon,"Stannis Baratheon, The Rightful Heir","Tactical
+Approach","**Start of the Round:**
+
+Attach this card to a friendly Combat
+Unit until the end of the Game.
+
+While attached, whenever this
+unit makes an attack, after defense
+dice are rolled, it may expend 1
+Condition Token from the defender
+to deal an additional D3 Wounds.
+
+If this is **Stannis Baratheon's** unit, it
+deals 3 Wounds instead of rolling.",40610
+Baratheon,"Renly Baratheon, The Charismatic Heir","Wealth and
+Charisma","**When you claim a zone
+on the Tactics Board:**
+
+Replace that Zone's effect with:
+
+Choose 1:
+
+• Restore D3+1 Wounds
+*(total)* across any number of
+friendly Combat Units.
+
+• Remove 3 Condition Tokens
+*(total)* from any number of
+friendly Combat Units.",40611
+Baratheon,"Renly Baratheon, The Charismatic Heir","Younger,
+Bolder, and
+far more
+Comely","**When a friendly Combat Unit
+makes a Morale Test:**
+
+That unit gains +2 to their
+Morale Test roll.
+
+If they are within Long Range of
+**Renley Baratheon's** unit and pass
+this test, they also restore up to
+1 Wound for each point they
+passed by, to a maximum of 4.",40612
+Baratheon,"Renly Baratheon, The Charismatic Heir","They Will
+Make Me King!","**When Renly Baratheon's
+unit activates:**
+
+Choose 1:
+
+• Restore up to 2 Wounds to
+Renly's unit and up to 1 Wound
+to all other friendly units within
+Long Range of Renly's unit.
+
+• Deal 2 Wounds to all enemies
+engaged with Renly's unit and 1
+Wound to all other enemies within
+Long Range of Renly's unit.",40613

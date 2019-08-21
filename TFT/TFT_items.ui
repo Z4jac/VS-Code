@@ -6,8 +6,8 @@
    <rect>
     <x>0</x>
     <y>0</y>
-    <width>413</width>
-    <height>293</height>
+    <width>422</width>
+    <height>296</height>
    </rect>
   </property>
   <property name="windowTitle">
@@ -35,8 +35,8 @@ selection-color: rgb(0, 0, 0);</string>
     </property>
     <property name="icon">
      <iconset>
-      <activeoff>BF.png</activeoff>
-      <activeon>BF_active.png</activeon>
+      <activeoff>img/BF.png</activeoff>
+      <activeon>img/BF_active.png</activeon>
      </iconset>
     </property>
     <property name="iconSize">
@@ -69,8 +69,8 @@ selection-color: rgb(0, 0, 0);</string>
     </property>
     <property name="icon">
      <iconset>
-      <activeoff>bow.png</activeoff>
-      <activeon>bow_active.png</activeon>
+      <activeoff>img/bow.png</activeoff>
+      <activeon>img/bow_active.png</activeon>
      </iconset>
     </property>
     <property name="iconSize">
@@ -100,8 +100,8 @@ selection-color: rgb(0, 0, 0);</string>
     </property>
     <property name="icon">
      <iconset>
-      <activeoff>neg.png</activeoff>
-      <activeon>neg_active.png</activeon>
+      <activeoff>img/neg.png</activeoff>
+      <activeon>img/neg_active.png</activeon>
      </iconset>
     </property>
     <property name="iconSize">
@@ -131,8 +131,8 @@ selection-color: rgb(0, 0, 0);</string>
     </property>
     <property name="icon">
      <iconset>
-      <activeoff>chain.png</activeoff>
-      <activeon>chain_active.png</activeon>
+      <activeoff>img/chain.png</activeoff>
+      <activeon>img/chain_active.png</activeon>
      </iconset>
     </property>
     <property name="iconSize">
@@ -162,8 +162,8 @@ selection-color: rgb(0, 0, 0);</string>
     </property>
     <property name="icon">
      <iconset>
-      <activeoff>Spat.png</activeoff>
-      <activeon>spat_active.png</activeon>
+      <activeoff>img/Spat.png</activeoff>
+      <activeon>img/spat_active.png</activeon>
      </iconset>
     </property>
     <property name="iconSize">
@@ -193,8 +193,8 @@ selection-color: rgb(0, 0, 0);</string>
     </property>
     <property name="icon">
      <iconset>
-      <activeoff>Giant.png</activeoff>
-      <activeon>giant_active.png</activeon>
+      <activeoff>img/Giant.png</activeoff>
+      <activeon>img/giant_active.png</activeon>
      </iconset>
     </property>
     <property name="iconSize">
@@ -224,8 +224,8 @@ selection-color: rgb(0, 0, 0);</string>
     </property>
     <property name="icon">
      <iconset>
-      <activeoff>drop.png</activeoff>
-      <activeon>drop_active.png</activeon>
+      <activeoff>img/drop.png</activeoff>
+      <activeon>img/drop_active.png</activeon>
      </iconset>
     </property>
     <property name="iconSize">
@@ -255,8 +255,8 @@ selection-color: rgb(0, 0, 0);</string>
     </property>
     <property name="icon">
      <iconset>
-      <activeoff>Rod.png</activeoff>
-      <activeon>rod_active.png</activeon>
+      <activeoff>img/Rod.png</activeoff>
+      <activeon>img/rod_active.png</activeon>
      </iconset>
     </property>
     <property name="iconSize">
@@ -272,13 +272,13 @@ selection-color: rgb(0, 0, 0);</string>
      <bool>true</bool>
     </property>
    </widget>
-   <widget class="QTableWidget" name="tableWidget">
+   <widget class="QListView" name="combinedItems">
     <property name="geometry">
      <rect>
-      <x>160</x>
+      <x>150</x>
       <y>10</y>
-      <width>244</width>
-      <height>244</height>
+      <width>251</width>
+      <height>241</height>
      </rect>
     </property>
    </widget>
@@ -290,14 +290,14 @@ selection-color: rgb(0, 0, 0);</string>
    <zorder>BF</zorder>
    <zorder>giant</zorder>
    <zorder>chain</zorder>
-   <zorder>tableWidget</zorder>
+   <zorder>combinedItems</zorder>
   </widget>
   <widget class="QMenuBar" name="menubar">
    <property name="geometry">
     <rect>
      <x>0</x>
      <y>0</y>
-     <width>413</width>
+     <width>422</width>
      <height>18</height>
     </rect>
    </property>

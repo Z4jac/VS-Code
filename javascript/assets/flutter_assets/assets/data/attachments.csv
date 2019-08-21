@@ -1,0 +1,141 @@
+Lannister,Assault Veteran,-,1,Infantry,Order: Hold the Line,"**If this unit began the turn engaged:**
+This unit's Melee Attacks gain +1 to Hit and roll +2 dice this turn.",SIF001/SIF001/SIF202/SIFKS001/SIFPR10,20101
+Lannister,Guard Captain,-,1,Infantry,Order: At any cost,"**If this unit would fail a Panic Test:**
+Kill 1 model in this unit to automatically pass this Panic Test.",SIF001/SIF001/SIF201/SIFKS001,20102
+Lannister,"Sandor Clegane, The Hound",Sandor Clegane,2,Infantry,Affiliation: House Clegane / Cut Them Down!,"This unit counts as a **House Clegane** unit. / When an enemy engaged with this unit fails a Panic Test, they suffer 2 additional Wounds.",SIF209/SIFKS020,20103
+Lannister,"Tywin Lannister, Lord of Casterly Rock",Tywin Lannister,C,Infantry,Intimidating / Lannister Supremacy,"When this unit activates, 1 enemy within Long Range becomes Weakened. / If this unit is attacked and passes its Panic Test, the attacker must make a Panic Test with -2 to their roll.",SIF209,20104
+Lannister,"Tyrion Lannister, Halfman",Tyrion Lannister,C,Infantry,Order: Superior Tactician,"**When an opponent plays a Tactics card:**
+Roll a die. On a 5+, cancel the effect of that Tactics card. You may discard a Tactics card to re-roll this die *(this may be repeated).*",SIF209,20105
+Lannister,"Barristan Selmy, Lord Commander of The Kingsguard",Barristan Selmy,3,Infantry,Duty To The Crown / Stalwart,"While you control [CROWN], each time this unit passes a Morale Test, it may restore up to D3 Wounds. / This unit gains +2 to Morale Test rolls.",SIF210,20106
+Lannister,"Jaime Lannister, Kingsguard",Jaime Lannister,2,Infantry,[M]Expert Duelist,"Each time this unit makes a Melee Attack against an enemy Infantry unit, it deals 1 additional Wound. If there is an Attachment in that unit, you may instead roll a die. On a 3+, kill that Attachment *(moving 1 model from the back of the unit to fill its slot)*.",SIF210,20107
+Lannister,"Mandon Moore, Kingsguard",Mandon Moore,2,Infantry,[M]Dominance Of The Crown,"While you control [CROWN], this unit's Melee Attacks gain +1 to Hit, and when attacking enemies with fewer remaining ranks than this unit, also gains Vicious *(Defender suffers -2 to their Panic Test)*.",SIF210,20108
+Lannister,"Meryn Trant, Kingsguard",Meryn Trant,1,Infantry,Intimidation Of The Crown,"While you control [CROWN], each time this unit performs an action, 1 enemy within Long Range gains 1 Condition token *(of your choice)*.",SIF210,20109
+Lannister,"Arys Oakheart, Kingsguard",Arys Oakheart,1,Infantry,Protection Of The Crown,"While you control [CROWN], enemies suffer -1 to Hit when attacking this unit with melee.",SIF210,20110
+Lannister,"Boros Blount, Kingsguard",Boros Blount,2,Infantry,Vengeance Of The Crown,"While you control [CROWN], each time this unit is attacked with Melee, after that Attack has been completed, the attacker suffers D3 Wounds.",SIF210,20111
+Lannister,"Preston Greenfield, Kingsguard",Preston Greenfield,1,Infantry,Prosperity Of The Crown,"While you control [CROWN], each time this unit performs an action, you may draw 1 Tactics card.",SIF210,20112
+Lannister,Champion of the Faith,-,1,Infantry,Order: Stand Resolute,"**When this unit passes a Morale Test:**
+All enemies engaged with this unit become Vulnerable.",SIF207/SIFKS019,20113
+Lannister,"Gregor Clegane, Lord Tywin's Mad Dog",Gregor Clegane,3,Infantry,[M]Inhuman Strength / Uncontrolled Rage,"This unit's Melee Attacks roll +2 dice and gain Sundering *(Defenders suffer -1 to their Defense Save rolls)*. / When this unit activates, if it could declare a Charge, it must make a Morale Test. On a failure, it must declare a Charge action, but automatically counts as having rolled a 6 for its Charge Distance roll.",SIF001,20114
+Lannister,"Jaime Lannister, The Kingslayer",Jaime Lannister,C,Infantry,Order: Counterattack / Order: Kingslayer's Prowess,"**When this unit is attacked with melee, after Attack dice are rolled:**
+For each blocked Hit, the attacker suffers 1 automatic Hit. / **When a friendly unit within Short Range is attacked with melee, after Attack Dice are rolled:**
+That unit gains +1 to Defense Save Rolls for this attack.",SIF001,20115
+Lannister,"Gregor Clegane, The Mountain",Gregor Clegane,C,Infantry,[M]Unstoppable Fury / Affiliation: House Clegane,"• Charged enemies become Panicked.
+• When this unit makes a Melee Attack, it deals D3 additional Wounds. / This unit counts as a **House Clegane** unit.",SIF001,20116
+Lannister,"Jaime Lannister, The Young Lion",Jaime Lannister,2,Infantry,[M]Boldness and Courage,"When this unit makes a melee attack, it is always treated as having 1 additional rank. If it already has full ranks, it rolls +2 attack dice.",SIF001,20117
+Lannister,"Gregor Clegane, Mounted Behemoth",Gregor Clegane,3,Cavalry,Order: Overrun / [M]Unstoppable Fury,"**When this unit destroys an enemy:**
+Instead of Maneuvering, this unit may pivot and make a free Charge action. / • Charged enemies become Panicked.
+• When this unit makes a Melee Attack, it deals D3 additional Wounds.",SIFKS001,20118
+Lannister,"Tyrion Lannister, The Giant of Lannister",Tyrion Lannister,3,Infantry,Order: Adaptive Planning / Order: Counterstrategy,"**While this unit is engaged:**
+You may expend a Condition token on an enemy engaged with this unit as if it were any other Condition token. / **When an enemy within Short Range uses an Order or is targeted by a Tactics card:**
+Roll a die. On a 3+, cancel that Order/Tactics card.",SIF209,20120
+Lannister,"Joffrey Baratheon, First of His Name",Joffrey Lannister,C,Infantry,The King is Dead!,"This model is always the last model destroyed from this unit. When this model is destroyed, your opponent gains +2 additional Victory Points and each of your Combat Units become Panicked.",SIF210,20121
+Stark,"Robb Stark, The Wolf Lord",Robb Stark,C,Infantry,[M]Order: Wolf's Cunning,"**When an enemy within Long Range declares a Charge:**
+That enemy suffers a **Disorderly Charge**.",SIF001/SIFKS018,20201
+Stark,"Greatjon Umber, Lord of Last Hearth",Greatjon Umber,C,Infantry,Order: Umber Rage / Affiliation: House Umber,"**When this unit makes a Melee Attack, before Attack dice are rolled:**
+The defender becomes Panicked and Vulnerable. This unit suffers D3 Wounds after this attack is completed. / This unit counts as a **House Umber** unit.",SIF001,20202
+Stark,Umber Champion,-,1,Infantry,[M]Fury Unleashed,"When this unit makes a Melee Attack, it may roll +2 Attack Die and gain Vicious *(Defenders suffer -2 to their Panic Test)*.
+If it does, after this Attack is completed, unless this unit has only 1 remaining rank, it suffers D3 Wounds.",SIF001/SIF103,20203
+Stark,Sworn Sword Captain,-,1,Infantry,Order: Martial Training,"**When this unit makes a Melee Attack, after Attack dice are rolled:**
+The defender becomes Vulnerable.",SIF001/SIF001/SIF101/SIFKS001/SIFPR10,20204
+Stark,"Greatjon Umber, Fierce Bannerman",Greatjon Umber,3,Infantry,Order: Fury of House Umber - Onslaught,"**When this unit makes a Melee Attack, after Attack dice are rolled:**
+This unit may re-roll any dice.
+Hits from rolls of 6 do not allow Defense Saves. This unit suffers D3 Wounds after this attack is completed. / If this unit is targeted by [SWORDS], it may make a free Charge action instead of an Attack action.",SIF001,20205
+Stark,"Robb Stark, The Young Wolf",Robb Stark,3,Infantry,Enhanced Mobility - Rapid Assault,"This unit gains +1 [MOVEMENT] and may always pivot before Marching. / If targeted by [HORSE], this unit may make a free Charge action instead of a Maneuver/Retreat action.",SIF001,20206
+Stark,"Bran and Hodor, Protector and Ward","Bran Stark, Hodor",3,Infantry,Order: Bran's Skinchanging / Hodor!!!,"**When this unit, or Summer, makes a Melee Attack:**
+The defender suffers D3 additional automatic Hits. / Once per game, when this unit is successfully Charged, the attacker automatically suffer a Disorderly Charge and rolls -2 Attack dice. Bran's unit may no longer betargeted by Bran's Skinchanging.",SIF109,20207
+Stark,"Brynden Tully, The Blackfish",Brynden Tully,C,Infantry,Affiliation: House Tully / Blackfish's Resolve / Stalwart,"This unit counts as a **House Tully** unit. / Each time this unit passes a Morale Test, it may restore 1 Wound. / This unit gains +2 to Morale Test rolls.",SIF109,20208
+Stark,"Brynden Tully, Unyielding Knight",Brynden Tully,2,Infantry,Order: Hold The Line! / Stalwart,"**If this unit began the turn engaged:**
+This unit's Melee Attacks gain +1 to Hit and roll +2 dice. / This unit gains +2 to Morale Test rolls.",SIF109,20209
+Stark,"Eddard Stark, Lord of Winterfell",Eddard Stark,C,Infantry,Order: For the North,"**When this unit makes a Melee Attack:**
+1 friendly unit within Long Range may restore up to 2 Wounds.",SIF109,20210
+Stark,"Rodrik Cassel, Master-at-Arms",Rodrik Cassel,C,Infantry,Order: Martial Training / Expose Opening,"**When this unit makes a Melee Attack, after Attack dice are rolled:**
+The defender becomes Vulnerable. / When targeting Vulnerable enemies, this unit may re-roll any Misses.",SIF109,20211
+Stark,Crannogman Warden,-,1,Infantry,Opportunist,"If this unit attacks an enemy that has not activated this round, it may re-roll any Misses.",SIF107/SIFKS001,20212
+Stark,"Maege Mormont, The She-Bear",Maege Mormont,3,Infantry,Order: Stubborn Tenacity / Stalwart,"**When this unit passes a Panic Test:**
+1 enemy engaged with this unit suffers D3 Wounds. / This unit gains +2 to Morale Test rolls.",SIFKS001,20213
+Stark,"Brynden Tully, Vanguard Infiltrator",Brynden Tully,3,Cavalry,Outflank: Stark Outriders / Regroup,"You may hold 1 unit of **Stark Outriders** off the table instead of deploying them. At the start of any round, as their activation, deploy that unit fully within Short Range of any table edge. / Each time this unit makes a Retreat action, it may restore up to D3+1 Wounds.",SIFKS001,20214
+Stark,"Brynden Tully, Outrider Commander",Brynden Tully,C,Cavalry,Outflank: Stark Outriders / Pathfinder,"You may hold 1 unit of **Stark Outriders** off the table instead of deploying them. At the start of any round, as their activation, deploy that unit fully within Short Range of any table edge. / This unit gains +1[MOVEMENT] and ignores the Dangerous, Rough, and Hindering keywords of Terrain pieces.",SIFKS001,20215
+Stark,"Meera Reed, Cunning Trapper",Meera Reed,1,Infantry,Order: Hidden Traps / Affiliation: Crannogman,"**When an unengaged enemy within Long Range moves:**
+That enemy suffers D3 Wounds and triggers a Disorderly Charge on rolls of 1 or 2 this turn. / This unit counts as a **Crannogman** unit.",SIF110,20216
+Stark,"Jojen Reed, Greensight",Jojen Reed,2,Infantry,Jojen's Greensight / Affiliation: Crannogman,"When this unit activates, roll a D6:
+**[1] Horrific Visions**
+• This unit becomes Panicked and Vulnerable.
+**[2-3] Guiding Hand**
+• This unit may re-roll any Misses this turn.
+**[4-5] The Path is Clear**
+• This unit may make 1 free Maneuver action.
+**[6] Perfect Clarity**
+Look at 1 opponent's hand of Tactics cards and discard 1 card. 1 enemy within Long Range of this unit becomes Vulnerable. / This unit counts as a **Crannogman** unit.",SIF110,20217
+Stark,"Syrio Forel, First Blade of Braavos",Syrio Forel,2,Infantry,Order: Braavosi Water Style / Arya Stark,"**When this unit is attacked with melee, before Attack dice are rolled:**
+Enemies suffer -1 To Hit when targeting this unit with Melee Attacks. / May only be fielded in an army including 'Arya Stark, The Wolf Girl'",SIF110,20218
+Stark,Rickon Stark,Rickon Stark,2,Infantry,Valuable Captive,"This model is always the last model destroyed from this unit. When this unit is destroyed, your opponent gains +1 additional Victory Point.",SIF110,20219
+Stark,Osha,Osha,0,Infantry,"Go Down Fighting / Run, Child! / Rickon Stark","Each time a rank in this unit is destroyed, 1 enemy engaged with it suffers 1 Wound. If you control [SWORDS], deal D3 Wounds instead. / During this unit's activation, or after it is attacked, you may kill Osha to move *Rickon Stark* to another friendly Infantry unit within Long Range *(ignoring the usual attachment restrictions)*. / May only be fielded in an army that includes 'Rickon Stark', and must be attached to his unit (ignoring the usual attachment restrictions).",SIF110,20220
+Free Folk,"Tormund Giantsbane, Thunderfist",Tormund Giantsbane,C,Infantry,Order: Overrun / [M]Shattering Assault,"Order: Overrun: When this unit destroys an enemy: Instead of maneuvering, this unit may pivot and make 1 free charge action.  /  This unit's Charge attacks gain Sundering *(Defenders suffer -1 to their Defense Save rolls)*.",SIF003,20301
+Free Folk,"Tormund Giantsbane, Tall-Talker, Horn-Blower, Breaker of Ice",Tormund Giantsbane,2,Infantry,[M]Furious Charge / [M]Shattering Assault,Enemies this unit successfully Charges become Vulnerable. /  Shattering Assault: This unit's charge attack gain sundering.,SIF003,20302
+Free Folk,"Mance Rayder, King Beyond the Wall",Mance Rayder,C,Infantry,Inspiring Presence / Rally Point,This unit's Morale Stat becomes 6+. / Friendly units within Short Range may use this unit's Morale Stat for all Morale Tests.,SIF003,20303
+Free Folk,Raid Leader,-,1,Infantry,Order: Combined Assault,"**When this unit activates:**
+Target 1 friendly, unactivated, unit within Long Range. It activates immediately after this unit. Any attacks it makes can only target enemies this unit attacked this turn.",SIF003/SIF003/SIF401,20304
+Free Folk,Cave Dweller Alpha,-,1,Infantry,[M]Ferocious Assault,Enemies successfully Charged by this unit become Panicked.,SIF408,20305
+Free Folk,Spearwife Matriarch,-,1,Infantry,Order: Swift Retreat,"**After this unit is attacked with melee:**
+This unit may immediately make a free Retreat action.",SIF405,20306
+Free Folk,Skinchanger,-,1,Infantry,Skinchanger - Bonded Skinchanger,"Skinchanger: This model ignores the usual attachment limit. Each unit may only have 1 skinchanger.  /  Bonded Skinchanger: when deployed, select 1 Bear, Eagle or Wolf as this Skinchanger's bonded animal and deploy that animal. If this model is killed or removed from this unit, remove its bonded animal from play.",SIF402,20307
+Free Folk,Eagle,-,0,All,Eagle - Bonded Eagle - Aerial Scouting,"Eagle: This model can only be fielded by the bonded skinchanger ability.  /  Bonded Eagle: when this unit is deployed, attach this card to an enemy combat unit. (place the model near the unit's tray to mark it. This model is ignored for all other gameplay purposes.)  /  Aerial Scouting: When charging this unit, enemies roll 1 additional Charge Distance die and discard the lowest result.",SIF402,20308
+Free Folk,Wolf,-,0,All,Wolf - Bonded Wolf - Threat Unseen,"Wolf: This model can only be fielded by the bonded skinchanger ability.  /  Bonded Wolf: when this unit is deployed, attach this card to an enemy combat unit. (place the model near the unit's tray to mark it. This model is ignored for all other gameplay purposes.)  /  Threat Unseen: Each time this unit is attacked, it suffers 1 additional automatic Hit from that attack.",SIF402,20309
+Free Folk,Chosen of Styr,-,1,Infantry,Intimidating,"When this unit activates, 1 enemy within long range becomes weakened.",SIF404,20310
+Free Folk,"Styr, Magnar Of Thenn",Styr,C,Infantry,Go Down Fighting / Stalwart,"Each time a rank in this unit is destroyed, 1 enemy engaged with it suffers 1 Wound. If you control [SWORDS], deal D3 Wounds instead. / This unit gains +2 to Morale Test rolls.",SIF409,20313
+Free Folk,Champion of Bone,-,1,Infantry,Prey on Fear,"Each time an enemy engaged with this unit fails a Panic Test, this unit may restore up to 2 Wounds.",SIF407,20314
+Free Folk,"Rattleshirt, The Lord Of Bones",Rattleshirt,C,Infantry,Order: First Claim,"**After a friendly Combat Unit completes a Melee Attack, if it destroyed an enemy rank:**
+If Rattleshirt's unit is within Short Range of that enemy, search your Tactics Deck or discard pile for 1 **Rattleshirt** Tactics card and attach it to this unit, and then shuffle your Tactics Deck.",SIF409,20315
+Free Folk,"Rattleshirt, Ruthless Slaughterer",Rattleshirt,2,Infantry,Onslaught / Prey On Fear,"If this unit is targeted by [SWORDS], it may make a free Charge action instead of an Attack action. / Each time an enemy engaged with this unit fails a Panic Test, this unit may restore up to 2 Wounds.",SIF409,20316
+Free Folk,"Harma, Vanguard Commander",Harma,C,Infantry,Order: Superior Flanking / Vanguard Commander,"**When a friendly unit within Long Range attacks an enemy in the Flank or Rear, before Attack dice are rolled:**
+The attacker rolls +3 Attack dice and the defender becomes Vulnerable. / When you claim [HORSE], you may return 1 **Commander** Tactics card from your discard pile to your hand.",SIF409,20317
+Free Folk,"Harma, The Dogshead",Harma,1,Infantry,Order: Follow Me!,"**When this unit performs a Maneuver or March action, before moving:**
+Target 1 other friendly unit in Short Range. After this unit completes its Maneuver/March, the targeted friendly unit may make 1 free Maneuver action.",SIF409,20318
+Free Folk,Harma's Bannerman,Harma's Bannerman,1,Infantry,Order: Incite / Harma,"**When this unit makes a Melee Attack, before Attack dice are rolled:**
+This Attack rolls its highest Attack die value and gains Vicious *(Defenders suffer -2 to their Panic Test)*. This unit suffers D3 Wounds after completing this Attack. / Harma: May only be fielded in an army that includes 'Harma', and must be attached to his unit (ignoring usual Attachment restrictions).",SIF409,20319
+Free Folk,"The Weeper, Horrific Butcher",Weeper,C,Infantry,Order: Horrific Reputation / Cut Them Down!,"**When an enemy unit within Long Range would pass a Panic Test:**
+You may force that unit to re-roll any dice for that test. / When an enemy engaged with this unit fails a Panic Test, they suffer 2 additional Wounds.",SIF409,20320
+Free Folk,"The Weeper, Cruel Tyrant",Weeper,2,Infantry,Order: At Any Cost / Order: Horrific Reputation,"**If this unit would fail a Panic Test:**
+Kill 1 model in this unit to automatically pass this Panic Test. / **When an enemy unit within Long Range would pass a Panic Test:**
+You may force that unit to re-roll any dice for that test.",SIF409,20321
+Free Folk,"Ygritte, Spearwife Archer",Ygritte,2,Infantry,[R]Nimble / Assassinate,"When making Ranged Attacks, this unit may **shift** 3"" *(instead of the normal 2"")*. After that Attack has been completed, this unit may then **shift** an additional 3"". / Once per game, when this unit attacks an enemy within Short Range, you may target 1 Attachment in that unit and roll a die. On a 3+, kill that Attachment *(moving 1 model from the back of the unit to fill their slot)*.",SIF409,20322
+Free Folk,"Jarl, Advance Raid Leader",Jarl,2,Infantry,Jarl's Scouting Party,"You may hold Jarl's unit off the table instead of deploying them as normal. When you claim [HORSE], you may replace that zone's effect with:
+
+*""Deploy Jarl's unit anywhere fully within Short Range of a Flank table edge (this is not their activation).""*",SIF409,20323
+Neutral,Dreadfort Captain,-,1,Infantry,Spread Fear,"Each time an enemy engaged with this unit fails a Panic Test, 1 other enemy within Long Range of that unit becomes Panicked.",SIF501/SIFKS021,20401
+Neutral,"Ramsay Snow, The Bastard of Bolton",Ramsay Snow,C,Infantry,Order: Flay them all! / Affiliation: House Bolton,"**When an enemy engaged with this unit fails a Panic Test:**
+1 other enemy within Long Range of that unit must make a Panic Test. / This unit counts as a **House Bolton** unit.",SIF505,20402
+Neutral,"Ramsay Snow, Sadist",Ramsay Snow,3,Infantry,Affiliation: House Bolton / Cut Them Down!,"This unit counts as a **House Bolton** unit. / When an enemy engaged with this unit fails a Panic Test, they suffer 2 additional Wounds.",SIF505,20403
+Neutral,"Theon Greyjoy, Reek",Theon Greyjoy,0,Infantry,Order: Set An Example / Ramsay Snow,"**When this unit activates:**
+1 enemy within Long Range becomes Panicked. Roll a die. On a 5+, kill Theon *(moving 1 model from the back of the unit to fll his slot).* / May only be fielded in an army that includes 'Ramsay Snow', and must be attached to his unit (ignoring usual Attachment restrictions).",SIF505,20404
+Neutral,"Roose Bolton, The Leech Lord",Roose Bolton,3,Infantry,[M]Ferocious Assault / Affiliation: House Bolton / Prey On Fear,"Enemies successfully Charged by this unit become Panicked. / This unit counts as a **House Bolton** unit. / Each time an enemy engaged with this unit fails a Panic Test, this unit may restore up to 2 Wounds.",SIF505,20405
+Neutral,"Brienne, Maiden of Tarth",Brienne of Tarth,2,Infantry,Knightly Vow / Stalwart,"Before deployment, select 1 enemy unit. Until the end of the game, this unit's Melee Attacks gain +1 to Hit and roll +2 dice against that enemy. / This unit gains +2 to Morale Test rolls.",SIFKS001,20406
+Neutral,"Bronn, The Sellsword",Bronn,2,Infantry,Extra Incentive,"While you control [MONEY], this unit gains +1 [MOVEMENT], rolls +2 Attack dice, and gains +2 to Morale Test rolls.",SIFKS001,20407
+Night's Watch,"Jeor Mormont, 997th Lord Commander",Jeor Mormont,C,Infantry,Oath of the Black,"When this unit activates, it may discard an attached Vow Tactic card and replace it with a different Vow Tactic card from your discard pile.",SIF002,20501
+Night's Watch,"Jon Snow, 998th Lord Commander",Jon Snow,C,Infantry,Order: Indomitable / Bond: Ghost,"**When this unit passes a Morale Test:**
+This unit may restore up to D3 Wounds. / When this unit activates, **Ghost** may activate **before or after** this unit takes its action.",SIF002,20502
+Night's Watch,"Jon Snow, ""Lord Snow""",Jon Snow,3,Infantry,[M]Boldness and Courage / Bond: Ghost,"When this unit makes a Melee Attack, it is always treated as having 1 additional rank. If it already has full ranks, it rolls +2 attack dice. / When this unit activates, **Ghost** may activate **before or after** this unit takes its action.",SIF002,20503
+Night's Watch,Watch Captain,-,2,Infantry,And Now My Watch Begins / Unbreakable Vows,"At the start of Round 1, reveal the top 3 cards of your Tactics Deck. You may select 1 Vow card from among them and attach it to this unit. Return the rest to your Tactics Deck and then shufﬂe. / This unit may have 2 attached Vows.",SIF002/SIF002/SIF301,20504
+Night's Watch,Watch Recruiter,-,1,Infantry,Forced Conscription,"Each time an enemy engaged with this unit loses models from an **Attack** or **Panic Test**, this unit may restore up to 1 Wound.",SIF308,20505
+Night's Watch,"Benjen Stark, First Ranger",Benjen Stark,C,Infantry,Ranger's Guile - Outflank: Ranger Unit,"Ranger's Guile: (Melee or Ranged) This unit's attacks gain +1 to hit when attacking enemies in the Flank or Rear.  /  Outflank: Ranger Unit: you may hold 1 Ranger unit off the table instead of deploying them. At the start of any round, as their activation, deploy that unit fully within short range of any table edge.",SIF310,20507
+Night's Watch,"Allister Thorne, Master-at-Arms",Allister Thorne,C,Infantry,Order: At Any Cost / [MR]Prey On The Weak,"**If this unit would fail a Panic Test:**
+Kill 1 model in this unit to automatically pass this Panic Test. / If the defender has a destroyed rank, this unit’s attacks gain +1 to Hit. If they have 2 destroyed ranks, this attack also rolls +2 Attack dice.",SIF309,20509
+Night's Watch,"Allister Thorne, Vindictive Overseer",Allister Thorne,2,Infantry,Order: At Any Cost / Order: Incite,"**If this unit would fail a Panic Test:**
+Kill 1 model in this unit to automatically pass this Panic Test. / **When this unit makes a Melee Attack:**
+This attack rolls its highest Attack Die value and gains Vicious *(Defender suffers -2 to their Panic Test)*. This unit suffers D3 Wounds after this attack has been completed.",SIF309,20510
+Night's Watch,"Donal Noye, Defender Of Castle Black",Donal Noye,C,Infantry,Mastercrafted Equipment,"While you control [MONEY], this unit's Attacks gain +1 to Hit, and its Defense Save rolls of 6 block 2 Hits.",SIF309,20511
+Night's Watch,"Grenn, Aurochs",Grenn,2,Infantry,[M]Powerful Blows,This unit's Melee Attacks roll +1 die and gain Critical Blow *(Rolls of 6 cause 2 Hits)*.,SIF309,20512
+Night's Watch,"Pypar, Monkey",Pypar,2,Infantry,[R]Nimble,"When making Ranged Attacks, this unit may **shift** 3"" *(instead of the normal 2"")*. After that attack has been completed, this unit may then shift an additional 3"".",SIF309,20513
+Night's Watch,"Qhorin Halfhand, Grizzled Ranger",Qhorin Halfhand,3,Infantry,Order: Stubborn Tenacity / Go Down Fighting,"**When this unit passes a Panic Test:**
+1 enemy engaged with this unit suffers D3 Wounds. / Each time a rank in this unit is destroyed, 1 enemy engaged with it suffers 1 Wound. If you control [SWORDS], deal D3 Wounds instead.",SIF309,20514
+Night's Watch,"Samwell Tarly, ""Sam the Slayer""",Samwell Tarly,1,Infantry,Knowledge and Insight,"Each time this unit performs an action, you may discard a tactics card to place any 1 condition token on an enemy unit within short range.",SIF310,20515
+Night's Watch,"Othell Yarwyck, Warmachine Specialist",Othell Yarwyck,1,Infantry,Spotter,"When a friendly Warmachine unit attacks an enemy within Long Range and Line of Sight of this unit, that unit may re-roll any Misses.",SIF309,20516
+Night's Watch,Scorpion Modifications,,2,Siege Engine,Order: Ready! Aim! Fire! / Rapid Reload / Othell Yarwyck,"**When this unit is targeted for a Charge from the Front:**
+This unit may make 1 Ranged Attack action against that enemy before they resolve their Charge action. / When this unit is targeted by [HORSE], it may replace that zone's effect with:
+*This unit may make 1 free Ranged Attack.* / May only be fielded in an army that includes 'Othell Yarwyck'",SIF309/SIF309/SIF309/SIF309,20517
+Baratheon,"Renly Baratheon, The Charismatic Heir",Renly Baratheon,C,Infantry,[M]Boldness and Courage / Embolden / Loyalty: Renly Baratheon,"When this unit makes a Melee Attack, it is always treated as having 1 additional rank. If it already has full ranks, it rolls +2 attack dice. / While within Short Range of this unit, other friendly units gain +1 to Morale Test rolls.",SIF008,20601
+Baratheon,"Stannis Baratheon, The Rightful Heir",Stannis Baratheon,C,Infantry,[M]Critical Blow / Loyalty: Stannis Baratheon / Unyielding,This unit's Melee Attacks gain Critical Blow *(Rolls of 6 cause 2 Hits)* / Your army may never include Units or Attachments with different Loyalties. / This unit may never gain Condition Tokens.,SIF008,20602
+Baratheon,Stag Knight Noble,,2,Infantry,Order: Reckless Vengeance,"**After this unit is attacked with melee:**
+This unit suffers 2 Wounds, and then makes 1 Melee Attack targeting the attacker.",SIF008,20603
+Baratheon,Master Warden,,1,Infantry,Order: Stand Your Ground!,"**When this unit is attacked, before Attack dice are rolled:**
+Enemies do not gain Charge, Flank, or Rear Bonuses for this attack.",SIF008/SIF008,20604
