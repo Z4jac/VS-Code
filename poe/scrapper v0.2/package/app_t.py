@@ -11,7 +11,7 @@ from apiclient import discovery
 from bs4 import BeautifulSoup
 from httplib2 import Http
 from oauth2client import client, file, tools
-from PyQt5 import QtCore, QtGui, QtWidgets
+
 
 
 
@@ -39,27 +39,6 @@ for i in names:
 
 leagues.pop(-1)
 leagues.pop(0)
-
-
-class MainWindow(QtWidgets.QMainWindow, Ui_Trade_Info):
-    # gui
-    def __init__(self, parent=None):
-        super(MainWindow, self).__init__(parent)
-        self.setupUi(self)
-        self.pushButton.clicked.connect(self.action)
-        self.comboBox.addItems(leagues)
-
-    def action(self):
-        cos = str(self.comboBox.currentText())
-        worker(cos)
-
-
-def run():
-    app = QtWidgets.QApplication(sys.argv)
-    window = MainWindow()
-    m = multiprocessing.Process(target=window.show())
-    m.start()
-    return app.exec_()
 
     
 
