@@ -5,7 +5,8 @@
     "content_scripts": [
         {
             "matches": [
-                "https://jbzdy.cc/*"
+                "https://jbzdy.cc/*",
+                "https://jbzdy.cc/obr/*"
             ],
             "js": ["anti block.js"]
         }
