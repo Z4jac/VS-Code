@@ -1,0 +1,59 @@
+<DOCKTYPE html>
+    <html lang="en">
+
+    <head>
+        <meta charset="UTF-8">
+        <title>asoif:Tabletop Digital</title>
+        <style>
+            body {
+                margin: 0;
+                padding: 0;
+                display: flex;
+                align-items: center;
+                justify-content: center;
+                height: 100vh;
+                background-color: darkgray;
+            }
+
+
+            canvas {
+                border: 3px solid #fff
+            }
+        </style>
+    </head>
+
+    
+    <body>
+        <div> </div>
+        
+        <canvas>
+            
+        </canvas>
+        <script>
+
+            const canvas = document.querySelector('canvas');
+
+           
+            const ctx = canvas.getContext('2d');
+
+            canvas.width = 1920;
+            canvas.height = 1080;
+
+            const cw = canvas.width
+            const ch = canvas.height
+
+            function table() {
+                ctx.fillStyle = "#00FF00";
+                ctx.fillRect(0, 0, cw, ch);
+                
+            }
+            table();    
+            
+            
+            
+
+        </script>
+    </body>
+
+    </html>
+</DOCKTYPE>
