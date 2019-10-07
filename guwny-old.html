@@ -1,0 +1,61 @@
+<DOCKTYPE html>
+  <html lang="en">
+    <head>
+      <meta charset="UTF-8" />
+      <title>asoif:Tabletop Digital</title>
+      <style>
+        body {
+          margin: 0;
+          padding: 0;
+          display: flex;
+          align-items: center;
+          justify-content: center;
+          height: 100vh;
+          background-color: darkgray;
+        }
+
+        canvas {
+          border: 3px solid #fff;
+        }
+      </style>
+    </head>
+
+    <body>
+      <div></div>
+
+      <canvas></canvas>
+      <script>
+        const canvas = document.querySelector("canvas");
+        const ctx = canvas.getContext("2d");
+
+        canvas.width = 1920;
+        canvas.height = 1080;
+
+        const cw = canvas.width;
+        const ch = canvas.height;
+
+        let imgX = cw / 2 - 363 / 2;
+        let imgY = ch / 2 - 311 / 2;
+
+        const img = new Image();
+        img.onload = function() {
+          ctx.drawImage(img, imgX, imgY);
+        };
+
+        function table() {
+          ctx.fillStyle = "green";
+          ctx.fillRect(0, 0, cw, ch);
+        }
+
+        function game() {
+          table();
+          img.src =
+            "https://steamuserimages-a.akamaihd.net/ugc/811122628130704486/C65531DD078213C30F8B7077B1D45A0BFE3D9A0E/";
+        }
+        //setInterval(game, 1000 / 60)
+
+        game();
+      </script>
+    </body>
+  </html>
+</DOCKTYPE>
